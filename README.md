@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Vijayalakshmi
 
-<!--
-**vijayalaksmi72-viji/vijayalaksmi72-viji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 Computer Science Engineering Student
+- 💻 Learning Python, C++, Java and Web Development
+- 🎨 Interested in UI/UX Design
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🚀 Building real-world projects to improve my skills
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- HTML, CSS & JavaScript
+- UI/UX Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- C++
+- Java
+- HTML
+- CSS
+- Git
+- GitHub
+- C
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vijayalakshmi-g-ab2652386)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayalaksmi72-viji)
