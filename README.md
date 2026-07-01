@@ -23,6 +23,8 @@
 - GitHub
 - C
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vijayalakshmi-g-ab2652386)
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayalaksmi72-viji)
+- 💼 LinkedIn: https://www.linkedin.com/in/vijayalakshmi-g-ab2652386
+- 💻 GitHub: https://github.com/vijayalaksmi72-viji
+- 📧 Email: vijivijaylakshmi192@gmail.com.com
